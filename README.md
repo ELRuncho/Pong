@@ -1,2 +1,2 @@
 # Pong
-Simple Pong game made using turtle
+Simple Pong game made using turtle.
